@@ -1,5 +1,5 @@
 p = peripheral.wrap("front")
-turtle.select(18)
+turtle.select(12)
 items = p.getAllStacks()
 turtleDir = ("West")
 quantity = 0
